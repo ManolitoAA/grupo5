@@ -1,4 +1,5 @@
 Grupo de Manolo Tortajada, Fran Alapont y Jaime Sanfelix
+Lenguaje c++, condicionales
 1- 
     Hay que tipar la variable
     int edad = 20;
